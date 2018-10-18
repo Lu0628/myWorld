@@ -1,6 +1,66 @@
-<world>
-    <continent name="pangea">
+<world name="jerry's world"
+    <continent name="earth">
+        <country name="USA">
+            <state name="newyourk">
+                 <city name="queens"
+                 <city name="brocklin">
+                 <city name="newyourk city">
+            <state name="california">
+                <city name="LA">
+                <city name="st deago">
+                <city name="st fransico">
+                <city name="las vegas">
+            <state name="illinoi">
+                <city name="chicago">
+                <city name="skokie">
+                <city name="lakeforest">
+                <city name="nabroveld">
+                </city>
+            </state>
+        </country>
+        <country name="china"
+            <state name="capital">
+                <city name="beijing">
+            <state name="??">
+                <city name="hongkong">
+                <city name="makao">
+                <city name="guangdong">
+             <state name="taiwan">
+                <city name="tainan">
+                <city name="taibei">
+                <city name="shanzhai">
+                <city name="zhatou">
+            <state name="sichuan">
+                <city name="chongqing">
+                <city name="wudo">
+            <state name="ningbo">
+                <city name="shanghai">
+            <state name="wuganda">
+                <city name="wudidong">
+                </city>
+            </state>
+         </country>
+         <country name=" australia">
+            <state name="new south wales">
+                <city name="sydeney">
+                <city name="canberra">
+                <city name="ACI">
+                <city name="wollongong">
+                <city name="brocken hill">
+                <city name="newcastle">
+            <state name="queensland">
+                <city name="cairns">
+                <city name="townsville">
+                <city name="greatbarrierreff">
+                <city name="karumba">
+                <city name="wellesley island">
+                <city name="mount isa">
+                <city name="birdsville">    
+            <state name="south australia">
+                <city name="lake eyre">
+                <city name="port augusta">
+                <city name="spencer gulf">
+            <state name="northern territory">
     </continent>
-    <continent name ="ralph">
-    </continent>
+
 <world>
